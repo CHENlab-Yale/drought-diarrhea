@@ -1,6 +1,7 @@
 # drought-diarrhea
 Data and codes in "Associations between long-term drought and diarrhea among children under five in low- and middle-income countries" by Pin Wang, Ernest Asare, Virginia E. Pitzer, Robert Dubrow, Kai Chen at Yale School of Public Health. 2022
 DOI:10.5281/zenodo.6527455
+![image](https://user-images.githubusercontent.com/20927724/167264804-3752d4cc-6a9b-4455-9a76-9a07d6061f08.png)
 
 
 This repository includes: 
